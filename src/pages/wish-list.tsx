@@ -70,6 +70,16 @@ const WishListCard = ({
 const WishListContent = () => {
     const wishListData = [
         {
+            discountPercent: 40,
+            discountPrice: "120",
+            image: "/pes.png",
+            mumberOfRating: 5,
+            name: "HAVIT HV-G92 Gamepad",
+            outOfSales: false,
+            price: "160",
+            ratings: 88   
+        },
+        {
             discountPercent: 35,
             discountPrice: "960",
             image: "/gucci-bag.png",
@@ -96,6 +106,7 @@ const WishListContent = () => {
             mumberOfRating: 4,
             name: "GP11 Shooter USB Gamepad",
             outOfSales: true,
+            price: "160",
             ratings: 55,
             isNew: false  
         },
@@ -106,6 +117,7 @@ const WishListContent = () => {
             mumberOfRating: 4,
             name: "Quited Satin Jacket",
             outOfSales: true,
+            price: "160",
             ratings: 55,
             isNew: false  
         }
@@ -236,6 +248,7 @@ const ForYouContent = () => {
             name: "ASUS FHD Gaming Laptop",
             outOfSales: true,
             ratings: 325,
+            price: "160",
             isNew: false   
         },
         {

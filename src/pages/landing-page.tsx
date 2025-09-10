@@ -519,6 +519,7 @@ const OurProductContent = () => {
             mumberOfRating: 3,
             name: "Breed Dry Dog Food",
             outOfSales: true,
+            price: "160",
             ratings: 35,
             isNew: true
         },
@@ -529,6 +530,7 @@ const OurProductContent = () => {
             mumberOfRating: 4,
             name: "CANON EOS DSLR CAMERA",
             outOfSales: false,
+            price: "160",
             ratings: 95,
             isNew: true   
         },
@@ -539,6 +541,7 @@ const OurProductContent = () => {
             mumberOfRating: 5,
             name: "ASUS FHD Gaming Laptop",
             outOfSales: true,
+            price: "160",
             ratings: 325,
             isNew: false   
         },
@@ -549,6 +552,7 @@ const OurProductContent = () => {
             mumberOfRating: 4,
             name: "Curology Product Set",
             outOfSales: true,
+            price: "160",
             ratings: 145,
             isNew: false  
         },
@@ -559,6 +563,7 @@ const OurProductContent = () => {
             mumberOfRating: 5,
             name: "Kids Electric Car",
             outOfSales: true,
+            price: "160",
             ratings: 65,
             isNew: false  
         },
@@ -569,6 +574,7 @@ const OurProductContent = () => {
             mumberOfRating: 4,
             name: "Jr. Zoom Soccer Cleats",
             outOfSales: true,
+            price: "160",
             ratings: 76 ,
             isNew: false  
         },
@@ -579,6 +585,7 @@ const OurProductContent = () => {
             mumberOfRating: 4,
             name: "GP11 Shooter USB Gamepad",
             outOfSales: true,
+            price: "160",
             ratings: 55,
             isNew: false  
         },
@@ -589,6 +596,7 @@ const OurProductContent = () => {
             mumberOfRating: 4,
             name: "Quited Satin Jacket",
             outOfSales: true,
+            price: "160",
             ratings: 55,
             isNew: false  
         }
